@@ -1,4 +1,4 @@
-# ADC (antibody-drug conjugate development) Scientific AI
+# ADC (antibody-drug conjugate) development Scientific AI
 
 **notebooks for AI-assisted antibody-drug conjugate development**
 
