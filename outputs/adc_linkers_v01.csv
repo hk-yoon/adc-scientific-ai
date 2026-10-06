@@ -1,0 +1,4 @@
+linker_id,linker_type,plasma_stability,release_score,hydrophobicity_risk
+LNK_001,protease,0.82,0.85,0.3
+LNK_002,non-cleavable,0.95,0.55,0.2
+LNK_003,acid,0.7,0.75,0.45

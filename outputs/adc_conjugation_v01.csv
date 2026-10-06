@@ -1,0 +1,4 @@
+conjugation_id,dar_mean,dar_variance,site_specific,conjugation_stability
+CONJ_001,2,0.1,1,0.95
+CONJ_002,4,0.2,1,0.9
+CONJ_003,8,0.5,0,0.75

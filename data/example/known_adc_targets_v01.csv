@@ -1,0 +1,5 @@
+gene_symbol,label_source,label_confidence
+ERBB2,educational_example,1.0
+TACSTD2,educational_example,1.0
+NECTIN4,educational_example,1.0
+FOLR1,educational_example,1.0

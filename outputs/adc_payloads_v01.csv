@@ -1,0 +1,4 @@
+payload_id,payload_class,potency_score,permeability_score,hydrophobicity_risk_payload,bystander_score
+PAY_001,microtubule,0.9,0.45,0.55,0.4
+PAY_002,topoisomerase,0.95,0.82,0.4,0.85
+PAY_003,DNA_damage,0.88,0.6,0.62,0.55

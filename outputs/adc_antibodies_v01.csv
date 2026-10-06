@@ -1,0 +1,4 @@
+antibody_id,affinity_kd_nm,internalization_score_ab,stability_score_ab,aggregation_risk_ab,affinity_log
+AB_001,1.2,0.8,0.9,0.1,8.920818753952375
+AB_002,0.3,0.65,0.82,0.18,9.522878745280337
+AB_003,4.5,0.88,0.86,0.12,8.346787486224656
