@@ -1,6 +1,6 @@
-# ADC Scientific AI
+# ADC (antibody-drug conjugate development) Scientific AI
 
-**Educational notebooks for AI-assisted antibody-drug conjugate development**
+**notebooks for AI-assisted antibody-drug conjugate development**
 
 This repository presents a hands-on, educational workflow for applying **Scientific AI** to antibody-drug conjugate (ADC) development.
 
